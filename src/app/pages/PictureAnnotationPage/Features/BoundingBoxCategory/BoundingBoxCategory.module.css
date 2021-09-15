@@ -1,0 +1,12 @@
+.category-header {
+  display: flex;
+}
+
+.category-name {
+  flex: 2;
+}
+
+.category-command {
+  flex: 1;
+  text-align: right;
+}

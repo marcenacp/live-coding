@@ -1,0 +1,11 @@
+.bounding-box-rect {
+  fill: #aa0000;
+  opacity: 0.4;
+  stroke: #ff1111;
+  stroke-width: 3;
+}
+
+.svg {
+  background-color: lightgray;
+  cursor: crosshair;
+}
